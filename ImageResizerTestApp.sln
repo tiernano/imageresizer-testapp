@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27729.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageResizerTestApp", "ImageResizerTestApp\ImageResizerTestApp.csproj", "{2CFE311B-72F2-4AED-80CD-5E0FF69C906A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CFE311B-72F2-4AED-80CD-5E0FF69C906A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFE311B-72F2-4AED-80CD-5E0FF69C906A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFE311B-72F2-4AED-80CD-5E0FF69C906A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFE311B-72F2-4AED-80CD-5E0FF69C906A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3DC42BE-518C-42DD-A99A-1B9626984727}
+	EndGlobalSection
+EndGlobal
