@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ImageResizerTestApp": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\tiernano\\Pictures\\PhotoTest C:\\Users\\tiernano\\Pictures\\resized"
+    }
+  }
+}
